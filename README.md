@@ -1,2 +1,2 @@
 # Meine Lösung zur get-in-IT.de Coding Challenge
-Link: https://www.get-in-it.de/coding-challenge
+Link zur Challenge: https://www.get-in-it.de/coding-challenge
